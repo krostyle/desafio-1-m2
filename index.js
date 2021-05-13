@@ -155,4 +155,6 @@ for (let i = 1; i <= 5; i++) {
 console.log(`La suma de los números es : ${sumArray(numArray)}`);
 console.log(`El promedio de los números es : ${promArray(numArray)}`);
 
+alert('Todos los resultados se mostrarán en la Consola.');
+
 //===========Fin del Programa==============
